@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://motion-orientation-api.now.sh">
-		<img src=".github/screenshot.png">
+		<img height="800" src=".github/screenshot.png">
 	</a>
 </p>
 
@@ -16,11 +16,4 @@ $ npm ci
 
 # serve with hot reload at localhost:3000
 $ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
 ```
