@@ -4,9 +4,9 @@
 			<a href="https://developers.google.com/web/fundamentals/native-hardware/device-orientation">Motion & Orientation API</a>
 			explorer
 		</span>
-		<a href="https://GitHub.com/privatenumber/github-cdn">
+		<a href="https://GitHub.com/privatenumber/motion-orientation-api">
 			<img
-				src="https://img.shields.io/github/stars/privatenumber/github-cdn.svg?style=social&label=Star&maxAge=2592000"
+				src="https://img.shields.io/github/stars/privatenumber/motion-orientation-api.svg?style=social&label=Star&maxAge=2592000"
 			>
 		</a>
 	</div>
