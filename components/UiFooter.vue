@@ -1,9 +1,7 @@
 <template>
 	<div :class="$s.UiFooter">
 		<span>
-			<a href="https://developers.google.com/web/fundamentals/native-hardware/device-orientation">
-				Motion & Orientation APIs
-			</a>
+			<a href="https://developers.google.com/web/fundamentals/native-hardware/device-orientation">Motion & Orientation API</a>
 			explorer
 		</span>
 		<a href="https://GitHub.com/privatenumber/github-cdn">
