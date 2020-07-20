@@ -15,7 +15,7 @@ export default {
 	** See https://nuxtjs.org/api/configuration-head
 	*/
 	head: {
-		title: process.env.npm_package_name || '',
+		title: 'Motion & Orientation API explorer',
 		meta: [
 			{ charset: 'utf-8' },
 			{
@@ -23,9 +23,6 @@ export default {
 				content: 'width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no'
 			},
 			{ hid: 'description', name: 'description', content: process.env.npm_package_description || '' }
-		],
-		link: [
-			{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
 		]
 	},
 	/*

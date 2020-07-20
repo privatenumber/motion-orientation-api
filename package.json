@@ -1,6 +1,16 @@
 {
   "name": "motion-orientation-api",
   "version": "1.0.0",
+  "description": "Motion & Orientation API explorer",
+  "author": "Hiroki Osame <hiroki.osame@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/privatenumber/motion-orientation-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/privatenumber/motion-orientation-api/issues"
+  },
+  "homepage": "https://motion-orientation-api.now.sh",
   "private": true,
   "scripts": {
     "dev": "nuxt",
